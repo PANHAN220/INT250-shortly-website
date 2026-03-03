@@ -3,7 +3,7 @@ import Navbar from './components/Navbar.vue'
 import Hero from './components/Hero.vue'
 import Shorten from './components/Shorten.vue'
 import CTA from './components/CTA.vue'
-import Footers from './components/Footers.vue'
+import Footer from './components/Footer.vue'
 </script>
 
 <template>
@@ -11,6 +11,6 @@ import Footers from './components/Footers.vue'
   <Hero />
   <Shorten />
   <CTA />
-  <Footers />
+  <Footer />
 </template>
 <style scoped></style>
